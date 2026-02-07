@@ -23,7 +23,7 @@ const remove =() =>{
   }}
   return (
     <>
-  <h1>Sushil</h1>
+  <h1>Sushil Kushwaha:-{counter}</h1>
   <h2>Counter: {counter}</h2>
 
 <button onClick={add}>Add Value</button>
