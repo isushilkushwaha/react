@@ -1,4 +1,4 @@
-// import ClearUp from "./components/useeffect/ClearnUp";
+import ClearUp from "./components/useeffect/ClearnUp";
 // import UseEffect from "./components/useeffect/UseEffect";
 //import UseState from "./components/usestate/UseState";
 //import UseStateObject from "./components/usestate/UseStateObject";
@@ -53,6 +53,15 @@ return(
 );
 */
 
+
+//Using useEfeect hook
+return(
+<>
+<h2>Application of useEfeect</h2>
+<ClearUp/>
+
+</>
+);
 
 };
 
